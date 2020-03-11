@@ -1,4 +1,4 @@
-#Formação Inteligência Artificial e Machine Learning
+
 
 install.packages("ReinforcementLearning")
 
